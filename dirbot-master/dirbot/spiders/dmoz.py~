@@ -1,0 +1,69 @@
+from scrapy.spiders import Spider
+from scrapy.selector import Selector
+from dirbot.items import Website
+
+import re
+import os, os.path
+
+class DmozSpider(Spider):
+    name = "phev"
+    allowed_domains = ["chargecar.org"]
+    
+    """
+    def func_DirWalkThrough(self,dir_name):
+        list_webaddr = []
+        for root, _, files in os.walk(dir_name):
+            for f in files:
+                name_txt = f.split('.')
+                #print name_txt[0]
+                fullpath = "http://www.chargecar.org/data/" + name_txt[0]
+                list_webaddr.append(fullpath)
+        return list_webaddr
+
+    #start_urls = ["http://www.chargecar.org/data/289"]
+    
+    def start_requests(self):
+        return [self.func_DirWalkThrough("../../../../../../HybridModel/V1_0_ProblemFix/data/Trip_Data")]
+    """
+
+    start_urls = ["http://www.chargecar.org/data/289"]
+    
+
+    """
+      Try to find float first and then int.
+      But always return the first number found
+    """
+    def get_num(self, x):
+        
+        l = re.findall("\d+.\d+", x)
+        if(len(l)>0):
+            return l[0]
+        else:
+            l = re.findall("\d+", x)
+            if(len(l)>0):
+                return l[0]
+            else:
+                return "missing"
+    
+    def parse(self, response):
+       
+        sel = Selector(response)
+        sites = sel.xpath('//div[@id="extra_meta_data"]/p')
+        items = []
+
+        for site in sites:
+            item = Website()
+
+            list_describe = site.xpath('text()').extract()
+            #list_describe seemed has already been splitted...
+            str_describe = ""
+            for i in list_describe:
+                str_describe = str_describe + i
+            item['description'] = self.get_num(str_describe)
+            #item['description'] = list_describe[1]
+
+            item['feature'] = site.xpath('b/text()').extract()
+            items.append(item)
+
+        return items
+        

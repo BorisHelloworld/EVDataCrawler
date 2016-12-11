@@ -1,0 +1,2101 @@
+tripID,description,feature
+609,46,Outside Temperature:
+609,172,Total Passenger Weight:
+609,75,Total Cargo Weight:
+609,29,Tire Pressure:
+609,30.03,Frontal Area of Car:
+613,42,Outside Temperature:
+613,172,Total Passenger Weight:
+613,40,Total Cargo Weight:
+613,29,Tire Pressure:
+613,30.03,Frontal Area of Car:
+438,41,Outside Temperature:
+438,250,Total Passenger Weight:
+438,0,Total Cargo Weight:
+438,29,Tire Pressure:
+438,29.28,Frontal Area of Car:
+439,49,Outside Temperature:
+439,250,Total Passenger Weight:
+439,0,Total Cargo Weight:
+439,29,Tire Pressure:
+439,29.28,Frontal Area of Car:
+10,74,Outside Temperature:
+10,150,Total Passenger Weight:
+10,150,Total Cargo Weight:
+10,44,Tire Pressure:
+10,30.13,Frontal Area of Car:
+602,58,Outside Temperature:
+602,200,Total Passenger Weight:
+602,15,Total Cargo Weight:
+602,30,Tire Pressure:
+602,26.91,Frontal Area of Car:
+599,32,Outside Temperature:
+599,200,Total Passenger Weight:
+599,10,Total Cargo Weight:
+599,30,Tire Pressure:
+599,26.91,Frontal Area of Car:
+147,60,Outside Temperature:
+147,285,Total Passenger Weight:
+147,0,Total Cargo Weight:
+147,40,Tire Pressure:
+147,30.19,Frontal Area of Car:
+155,99,Outside Temperature:
+155,200,Total Passenger Weight:
+155,0,Total Cargo Weight:
+155,9,Tire Pressure:
+155,30.03,Frontal Area of Car:
+666,27,Outside Temperature:
+666,160,Total Passenger Weight:
+666,10,Total Cargo Weight:
+666,32,Tire Pressure:
+666,26.91,Frontal Area of Car:
+646,66,Outside Temperature:
+646,154,Total Passenger Weight:
+646,10,Total Cargo Weight:
+646,35,Tire Pressure:
+646,18.3,Frontal Area of Car:
+287,38,Outside Temperature:
+287,250,Total Passenger Weight:
+287,0,Total Cargo Weight:
+287,30,Tire Pressure:
+287,26.91,Frontal Area of Car:
+548,25,Outside Temperature:
+548,160,Total Passenger Weight:
+548,10,Total Cargo Weight:
+548,30,Tire Pressure:
+548,26.91,Frontal Area of Car:
+549,17,Outside Temperature:
+549,160,Total Passenger Weight:
+549,10,Total Cargo Weight:
+549,30,Tire Pressure:
+549,26.91,Frontal Area of Car:
+661,64,Outside Temperature:
+661,154,Total Passenger Weight:
+661,10,Total Cargo Weight:
+661,35,Tire Pressure:
+661,18.3,Frontal Area of Car:
+531,52,Outside Temperature:
+531,400,Total Passenger Weight:
+531,10,Total Cargo Weight:
+531,missing,Tire Pressure:
+531,29.28,Frontal Area of Car:
+289,49,Outside Temperature:
+289,200,Total Passenger Weight:
+289,25,Total Cargo Weight:
+289,missing,Tire Pressure:
+289,26.91,Frontal Area of Car:
+403,56,Outside Temperature:
+403,165,Total Passenger Weight:
+403,10,Total Cargo Weight:
+403,missing,Tire Pressure:
+403,28.63,Frontal Area of Car:
+405,34,Outside Temperature:
+405,325,Total Passenger Weight:
+405,20,Total Cargo Weight:
+405,missing,Tire Pressure:
+405,28.63,Frontal Area of Car:
+530,51,Outside Temperature:
+530,400,Total Passenger Weight:
+530,0,Total Cargo Weight:
+530,missing,Tire Pressure:
+530,29.28,Frontal Area of Car:
+574,38,Outside Temperature:
+574,350,Total Passenger Weight:
+574,50,Total Cargo Weight:
+574,33,Tire Pressure:
+574,26.91,Frontal Area of Car:
+401,47,Outside Temperature:
+401,165,Total Passenger Weight:
+401,10,Total Cargo Weight:
+401,missing,Tire Pressure:
+401,28.63,Frontal Area of Car:
+402,49,Outside Temperature:
+402,165,Total Passenger Weight:
+402,10,Total Cargo Weight:
+402,missing,Tire Pressure:
+402,28.63,Frontal Area of Car:
+404,37,Outside Temperature:
+404,165,Total Passenger Weight:
+404,10,Total Cargo Weight:
+404,missing,Tire Pressure:
+404,28.63,Frontal Area of Car:
+279,80,Outside Temperature:
+279,130,Total Passenger Weight:
+279,10,Total Cargo Weight:
+279,missing,Tire Pressure:
+279,29.28,Frontal Area of Car:
+286,50,Outside Temperature:
+286,170,Total Passenger Weight:
+286,10,Total Cargo Weight:
+286,30,Tire Pressure:
+286,26.91,Frontal Area of Car:
+315,34,Outside Temperature:
+315,150,Total Passenger Weight:
+315,100,Total Cargo Weight:
+315,35,Tire Pressure:
+315,29.28,Frontal Area of Car:
+277,80,Outside Temperature:
+277,130,Total Passenger Weight:
+277,10,Total Cargo Weight:
+277,missing,Tire Pressure:
+277,29.28,Frontal Area of Car:
+282,80,Outside Temperature:
+282,130,Total Passenger Weight:
+282,10,Total Cargo Weight:
+282,missing,Tire Pressure:
+282,29.28,Frontal Area of Car:
+281,80,Outside Temperature:
+281,130,Total Passenger Weight:
+281,10,Total Cargo Weight:
+281,missing,Tire Pressure:
+281,29.28,Frontal Area of Car:
+273,80,Outside Temperature:
+273,130,Total Passenger Weight:
+273,10,Total Cargo Weight:
+273,missing,Tire Pressure:
+273,29.28,Frontal Area of Car:
+275,80,Outside Temperature:
+275,130,Total Passenger Weight:
+275,10,Total Cargo Weight:
+275,missing,Tire Pressure:
+275,29.28,Frontal Area of Car:
+280,80,Outside Temperature:
+280,130,Total Passenger Weight:
+280,10,Total Cargo Weight:
+280,missing,Tire Pressure:
+280,29.28,Frontal Area of Car:
+276,80,Outside Temperature:
+276,130,Total Passenger Weight:
+276,10,Total Cargo Weight:
+276,missing,Tire Pressure:
+276,29.28,Frontal Area of Car:
+285,52,Outside Temperature:
+285,235,Total Passenger Weight:
+285,50,Total Cargo Weight:
+285,missing,Tire Pressure:
+285,37.57,Frontal Area of Car:
+283,62,Outside Temperature:
+283,500,Total Passenger Weight:
+283,50,Total Cargo Weight:
+283,missing,Tire Pressure:
+283,37.57,Frontal Area of Car:
+284,60,Outside Temperature:
+284,235,Total Passenger Weight:
+284,50,Total Cargo Weight:
+284,missing,Tire Pressure:
+284,29.28,Frontal Area of Car:
+12,74,Outside Temperature:
+12,150,Total Passenger Weight:
+12,150,Total Cargo Weight:
+12,44,Tire Pressure:
+12,28.63,Frontal Area of Car:
+274,80,Outside Temperature:
+274,130,Total Passenger Weight:
+274,10,Total Cargo Weight:
+274,missing,Tire Pressure:
+274,29.28,Frontal Area of Car:
+111,74,Outside Temperature:
+111,245,Total Passenger Weight:
+111,50,Total Cargo Weight:
+111,32,Tire Pressure:
+111,29.28,Frontal Area of Car:
+743,72,Outside Temperature:
+743,265,Total Passenger Weight:
+743,0,Total Cargo Weight:
+743,missing,Tire Pressure:
+743,29.28,Frontal Area of Car:
+110,74,Outside Temperature:
+110,245,Total Passenger Weight:
+110,50,Total Cargo Weight:
+110,32,Tire Pressure:
+110,29.28,Frontal Area of Car:
+11,74,Outside Temperature:
+11,150,Total Passenger Weight:
+11,150,Total Cargo Weight:
+11,44,Tire Pressure:
+11,28.63,Frontal Area of Car:
+532,43,Outside Temperature:
+532,196,Total Passenger Weight:
+532,235,Total Cargo Weight:
+532,29,Tire Pressure:
+532,26.91,Frontal Area of Car:
+491,54,Outside Temperature:
+491,223,Total Passenger Weight:
+491,0,Total Cargo Weight:
+491,missing,Tire Pressure:
+491,30.03,Frontal Area of Car:
+411,55,Outside Temperature:
+411,196,Total Passenger Weight:
+411,238,Total Cargo Weight:
+411,29,Tire Pressure:
+411,26.91,Frontal Area of Car:
+408,55,Outside Temperature:
+408,196,Total Passenger Weight:
+408,240,Total Cargo Weight:
+408,29,Tire Pressure:
+408,26.91,Frontal Area of Car:
+493,55,Outside Temperature:
+493,165,Total Passenger Weight:
+493,0,Total Cargo Weight:
+493,missing,Tire Pressure:
+493,30.03,Frontal Area of Car:
+492,51,Outside Temperature:
+492,165,Total Passenger Weight:
+492,0,Total Cargo Weight:
+492,missing,Tire Pressure:
+492,30.03,Frontal Area of Car:
+407,55,Outside Temperature:
+407,196,Total Passenger Weight:
+407,240,Total Cargo Weight:
+407,29,Tire Pressure:
+407,26.91,Frontal Area of Car:
+257,68,Outside Temperature:
+257,140,Total Passenger Weight:
+257,0,Total Cargo Weight:
+257,missing,Tire Pressure:
+257,26.91,Frontal Area of Car:
+410,53,Outside Temperature:
+410,196,Total Passenger Weight:
+410,239,Total Cargo Weight:
+410,29,Tire Pressure:
+410,26.91,Frontal Area of Car:
+533,43,Outside Temperature:
+533,196,Total Passenger Weight:
+533,238,Total Cargo Weight:
+533,29,Tire Pressure:
+533,26.91,Frontal Area of Car:
+409,54,Outside Temperature:
+409,196,Total Passenger Weight:
+409,240,Total Cargo Weight:
+409,29,Tire Pressure:
+409,26.91,Frontal Area of Car:
+541,37,Outside Temperature:
+541,197,Total Passenger Weight:
+541,240,Total Cargo Weight:
+541,29,Tire Pressure:
+541,26.91,Frontal Area of Car:
+263,68,Outside Temperature:
+263,140,Total Passenger Weight:
+263,0,Total Cargo Weight:
+263,missing,Tire Pressure:
+263,26.91,Frontal Area of Car:
+709,40,Outside Temperature:
+709,215,Total Passenger Weight:
+709,25,Total Cargo Weight:
+709,35,Tire Pressure:
+709,26.91,Frontal Area of Car:
+698,50,Outside Temperature:
+698,210,Total Passenger Weight:
+698,0,Total Cargo Weight:
+698,35,Tire Pressure:
+698,26.91,Frontal Area of Car:
+731,44,Outside Temperature:
+731,215,Total Passenger Weight:
+731,20,Total Cargo Weight:
+731,35,Tire Pressure:
+731,26.91,Frontal Area of Car:
+729,40,Outside Temperature:
+729,215,Total Passenger Weight:
+729,20,Total Cargo Weight:
+729,35,Tire Pressure:
+729,26.91,Frontal Area of Car:
+704,60,Outside Temperature:
+704,210,Total Passenger Weight:
+704,0,Total Cargo Weight:
+704,35,Tire Pressure:
+704,26.91,Frontal Area of Car:
+706,60,Outside Temperature:
+706,215,Total Passenger Weight:
+706,25,Total Cargo Weight:
+706,35,Tire Pressure:
+706,26.91,Frontal Area of Car:
+702,65,Outside Temperature:
+702,210,Total Passenger Weight:
+702,0,Total Cargo Weight:
+702,35,Tire Pressure:
+702,26.91,Frontal Area of Car:
+727,50,Outside Temperature:
+727,215,Total Passenger Weight:
+727,20,Total Cargo Weight:
+727,35,Tire Pressure:
+727,26.91,Frontal Area of Car:
+694,67,Outside Temperature:
+694,210,Total Passenger Weight:
+694,5,Total Cargo Weight:
+694,35,Tire Pressure:
+694,26.91,Frontal Area of Car:
+696,55,Outside Temperature:
+696,210,Total Passenger Weight:
+696,0,Total Cargo Weight:
+696,35,Tire Pressure:
+696,26.91,Frontal Area of Car:
+718,32,Outside Temperature:
+718,215,Total Passenger Weight:
+718,25,Total Cargo Weight:
+718,35,Tire Pressure:
+718,26.91,Frontal Area of Car:
+723,45,Outside Temperature:
+723,215,Total Passenger Weight:
+723,20,Total Cargo Weight:
+723,35,Tire Pressure:
+723,26.91,Frontal Area of Car:
+720,60,Outside Temperature:
+720,380,Total Passenger Weight:
+720,20,Total Cargo Weight:
+720,35,Tire Pressure:
+720,26.91,Frontal Area of Car:
+737,46,Outside Temperature:
+737,215,Total Passenger Weight:
+737,20,Total Cargo Weight:
+737,35,Tire Pressure:
+737,26.91,Frontal Area of Car:
+700,70,Outside Temperature:
+700,210,Total Passenger Weight:
+700,0,Total Cargo Weight:
+700,35,Tire Pressure:
+700,26.91,Frontal Area of Car:
+714,30,Outside Temperature:
+714,215,Total Passenger Weight:
+714,25,Total Cargo Weight:
+714,35,Tire Pressure:
+714,26.91,Frontal Area of Car:
+740,44,Outside Temperature:
+740,215,Total Passenger Weight:
+740,20,Total Cargo Weight:
+740,35,Tire Pressure:
+740,26.91,Frontal Area of Car:
+725,54,Outside Temperature:
+725,215,Total Passenger Weight:
+725,20,Total Cargo Weight:
+725,35,Tire Pressure:
+725,26.91,Frontal Area of Car:
+742,54,Outside Temperature:
+742,385,Total Passenger Weight:
+742,20,Total Cargo Weight:
+742,35,Tire Pressure:
+742,26.91,Frontal Area of Car:
+733,50,Outside Temperature:
+733,215,Total Passenger Weight:
+733,20,Total Cargo Weight:
+733,35,Tire Pressure:
+733,26.91,Frontal Area of Car:
+735,58,Outside Temperature:
+735,215,Total Passenger Weight:
+735,20,Total Cargo Weight:
+735,35,Tire Pressure:
+735,26.91,Frontal Area of Car:
+721,60,Outside Temperature:
+721,380,Total Passenger Weight:
+721,20,Total Cargo Weight:
+721,35,Tire Pressure:
+721,26.91,Frontal Area of Car:
+736,74,Outside Temperature:
+736,215,Total Passenger Weight:
+736,20,Total Cargo Weight:
+736,35,Tire Pressure:
+736,26.91,Frontal Area of Car:
+719,60,Outside Temperature:
+719,215,Total Passenger Weight:
+719,15,Total Cargo Weight:
+719,35,Tire Pressure:
+719,26.91,Frontal Area of Car:
+699,80,Outside Temperature:
+699,210,Total Passenger Weight:
+699,0,Total Cargo Weight:
+699,35,Tire Pressure:
+699,26.91,Frontal Area of Car:
+708,67,Outside Temperature:
+708,215,Total Passenger Weight:
+708,15,Total Cargo Weight:
+708,35,Tire Pressure:
+708,26.91,Frontal Area of Car:
+695,75,Outside Temperature:
+695,210,Total Passenger Weight:
+695,0,Total Cargo Weight:
+695,35,Tire Pressure:
+695,26.91,Frontal Area of Car:
+732,54,Outside Temperature:
+732,215,Total Passenger Weight:
+732,20,Total Cargo Weight:
+732,35,Tire Pressure:
+732,26.91,Frontal Area of Car:
+693,80,Outside Temperature:
+693,210,Total Passenger Weight:
+693,100,Total Cargo Weight:
+693,35,Tire Pressure:
+693,26.91,Frontal Area of Car:
+710,53,Outside Temperature:
+710,215,Total Passenger Weight:
+710,25,Total Cargo Weight:
+710,35,Tire Pressure:
+710,26.91,Frontal Area of Car:
+730,48,Outside Temperature:
+730,215,Total Passenger Weight:
+730,20,Total Cargo Weight:
+730,35,Tire Pressure:
+730,26.91,Frontal Area of Car:
+703,75,Outside Temperature:
+703,210,Total Passenger Weight:
+703,0,Total Cargo Weight:
+703,35,Tire Pressure:
+703,26.91,Frontal Area of Car:
+728,55,Outside Temperature:
+728,215,Total Passenger Weight:
+728,20,Total Cargo Weight:
+728,35,Tire Pressure:
+728,26.91,Frontal Area of Car:
+739,35,Outside Temperature:
+739,215,Total Passenger Weight:
+739,20,Total Cargo Weight:
+739,35,Tire Pressure:
+739,26.91,Frontal Area of Car:
+724,68,Outside Temperature:
+724,215,Total Passenger Weight:
+724,20,Total Cargo Weight:
+724,35,Tire Pressure:
+724,26.91,Frontal Area of Car:
+734,70,Outside Temperature:
+734,215,Total Passenger Weight:
+734,20,Total Cargo Weight:
+734,35,Tire Pressure:
+734,26.91,Frontal Area of Car:
+717,50,Outside Temperature:
+717,215,Total Passenger Weight:
+717,25,Total Cargo Weight:
+717,35,Tire Pressure:
+717,26.91,Frontal Area of Car:
+738,79,Outside Temperature:
+738,215,Total Passenger Weight:
+738,20,Total Cargo Weight:
+738,35,Tire Pressure:
+738,26.91,Frontal Area of Car:
+697,85,Outside Temperature:
+697,210,Total Passenger Weight:
+697,0,Total Cargo Weight:
+697,35,Tire Pressure:
+697,26.91,Frontal Area of Car:
+741,58,Outside Temperature:
+741,215,Total Passenger Weight:
+741,20,Total Cargo Weight:
+741,35,Tire Pressure:
+741,26.91,Frontal Area of Car:
+707,80,Outside Temperature:
+707,215,Total Passenger Weight:
+707,100,Total Cargo Weight:
+707,35,Tire Pressure:
+707,26.91,Frontal Area of Car:
+726,56,Outside Temperature:
+726,215,Total Passenger Weight:
+726,100,Total Cargo Weight:
+726,35,Tire Pressure:
+726,26.91,Frontal Area of Car:
+701,82,Outside Temperature:
+701,210,Total Passenger Weight:
+701,0,Total Cargo Weight:
+701,35,Tire Pressure:
+701,26.91,Frontal Area of Car:
+582,20,Outside Temperature:
+582,200,Total Passenger Weight:
+582,10,Total Cargo Weight:
+582,32,Tire Pressure:
+582,26.91,Frontal Area of Car:
+577,29,Outside Temperature:
+577,200,Total Passenger Weight:
+577,10,Total Cargo Weight:
+577,32,Tire Pressure:
+577,26.91,Frontal Area of Car:
+584,20,Outside Temperature:
+584,200,Total Passenger Weight:
+584,10,Total Cargo Weight:
+584,32,Tire Pressure:
+584,26.91,Frontal Area of Car:
+610,46,Outside Temperature:
+610,146,Total Passenger Weight:
+610,60,Total Cargo Weight:
+610,29,Tire Pressure:
+610,30.03,Frontal Area of Car:
+612,40,Outside Temperature:
+612,146,Total Passenger Weight:
+612,40,Total Cargo Weight:
+612,29,Tire Pressure:
+612,30.03,Frontal Area of Car:
+705,68,Outside Temperature:
+705,215,Total Passenger Weight:
+705,25,Total Cargo Weight:
+705,35,Tire Pressure:
+705,26.91,Frontal Area of Car:
+579,28,Outside Temperature:
+579,200,Total Passenger Weight:
+579,10,Total Cargo Weight:
+579,32,Tire Pressure:
+579,26.91,Frontal Area of Car:
+575,34,Outside Temperature:
+575,200,Total Passenger Weight:
+575,10,Total Cargo Weight:
+575,33,Tire Pressure:
+575,26.91,Frontal Area of Car:
+339,50,Outside Temperature:
+339,150,Total Passenger Weight:
+339,50,Total Cargo Weight:
+339,missing,Tire Pressure:
+339,26.91,Frontal Area of Car:
+317,40,Outside Temperature:
+317,150,Total Passenger Weight:
+317,50,Total Cargo Weight:
+317,missing,Tire Pressure:
+317,26.91,Frontal Area of Car:
+292,60,Outside Temperature:
+292,150,Total Passenger Weight:
+292,50,Total Cargo Weight:
+292,missing,Tire Pressure:
+292,26.91,Frontal Area of Car:
+385,55,Outside Temperature:
+385,150,Total Passenger Weight:
+385,50,Total Cargo Weight:
+385,missing,Tire Pressure:
+385,26.91,Frontal Area of Car:
+604,69,Outside Temperature:
+604,350,Total Passenger Weight:
+604,15,Total Cargo Weight:
+604,30,Tire Pressure:
+604,26.91,Frontal Area of Car:
+608,63,Outside Temperature:
+608,350,Total Passenger Weight:
+608,10,Total Cargo Weight:
+608,30,Tire Pressure:
+608,26.91,Frontal Area of Car:
+386,55,Outside Temperature:
+386,375,Total Passenger Weight:
+386,100,Total Cargo Weight:
+386,missing,Tire Pressure:
+386,26.91,Frontal Area of Car:
+601,70,Outside Temperature:
+601,350,Total Passenger Weight:
+601,50,Total Cargo Weight:
+601,30,Tire Pressure:
+601,26.91,Frontal Area of Car:
+573,34,Outside Temperature:
+573,350,Total Passenger Weight:
+573,50,Total Cargo Weight:
+573,33,Tire Pressure:
+573,26.91,Frontal Area of Car:
+310,54,Outside Temperature:
+310,195,Total Passenger Weight:
+310,0,Total Cargo Weight:
+310,30,Tire Pressure:
+310,26.91,Frontal Area of Car:
+311,40,Outside Temperature:
+311,195,Total Passenger Weight:
+311,0,Total Cargo Weight:
+311,28,Tire Pressure:
+311,26.91,Frontal Area of Car:
+578,30,Outside Temperature:
+578,200,Total Passenger Weight:
+578,10,Total Cargo Weight:
+578,32,Tire Pressure:
+578,26.91,Frontal Area of Car:
+556,28,Outside Temperature:
+556,199,Total Passenger Weight:
+556,10,Total Cargo Weight:
+556,30,Tire Pressure:
+556,26.91,Frontal Area of Car:
+603,73,Outside Temperature:
+603,350,Total Passenger Weight:
+603,15,Total Cargo Weight:
+603,30,Tire Pressure:
+603,26.91,Frontal Area of Car:
+581,22,Outside Temperature:
+581,200,Total Passenger Weight:
+581,10,Total Cargo Weight:
+581,31,Tire Pressure:
+581,26.91,Frontal Area of Car:
+600,35,Outside Temperature:
+600,200,Total Passenger Weight:
+600,10,Total Cargo Weight:
+600,30,Tire Pressure:
+600,26.91,Frontal Area of Car:
+605,69,Outside Temperature:
+605,200,Total Passenger Weight:
+605,15,Total Cargo Weight:
+605,30,Tire Pressure:
+605,26.91,Frontal Area of Car:
+576,24,Outside Temperature:
+576,200,Total Passenger Weight:
+576,10,Total Cargo Weight:
+576,33,Tire Pressure:
+576,26.91,Frontal Area of Car:
+312,42,Outside Temperature:
+312,195,Total Passenger Weight:
+312,0,Total Cargo Weight:
+312,28,Tire Pressure:
+312,26.91,Frontal Area of Car:
+585,7,Outside Temperature:
+585,200,Total Passenger Weight:
+585,10,Total Cargo Weight:
+585,31,Tire Pressure:
+585,26.91,Frontal Area of Car:
+580,30,Outside Temperature:
+580,200,Total Passenger Weight:
+580,10,Total Cargo Weight:
+580,32,Tire Pressure:
+580,26.91,Frontal Area of Car:
+583,9,Outside Temperature:
+583,200,Total Passenger Weight:
+583,10,Total Cargo Weight:
+583,32,Tire Pressure:
+583,26.91,Frontal Area of Car:
+607,63,Outside Temperature:
+607,350,Total Passenger Weight:
+607,10,Total Cargo Weight:
+607,30,Tire Pressure:
+607,26.91,Frontal Area of Car:
+606,75,Outside Temperature:
+606,200,Total Passenger Weight:
+606,15,Total Cargo Weight:
+606,30,Tire Pressure:
+606,26.91,Frontal Area of Car:
+318,40,Outside Temperature:
+318,150,Total Passenger Weight:
+318,50,Total Cargo Weight:
+318,missing,Tire Pressure:
+318,26.91,Frontal Area of Car:
+324,40,Outside Temperature:
+324,195,Total Passenger Weight:
+324,0,Total Cargo Weight:
+324,28,Tire Pressure:
+324,26.91,Frontal Area of Car:
+387,50,Outside Temperature:
+387,375,Total Passenger Weight:
+387,100,Total Cargo Weight:
+387,36,Tire Pressure:
+387,26.91,Frontal Area of Car:
+648,66,Outside Temperature:
+648,154,Total Passenger Weight:
+648,50,Total Cargo Weight:
+648,35,Tire Pressure:
+648,18.3,Frontal Area of Car:
+260,52,Outside Temperature:
+260,160,Total Passenger Weight:
+260,30,Total Cargo Weight:
+260,missing,Tire Pressure:
+260,28.63,Frontal Area of Car:
+298,50,Outside Temperature:
+298,175,Total Passenger Weight:
+298,20,Total Cargo Weight:
+298,missing,Tire Pressure:
+298,26.91,Frontal Area of Car:
+327,50,Outside Temperature:
+327,175,Total Passenger Weight:
+327,30,Total Cargo Weight:
+327,missing,Tire Pressure:
+327,26.91,Frontal Area of Car:
+326,40,Outside Temperature:
+326,175,Total Passenger Weight:
+326,30,Total Cargo Weight:
+326,missing,Tire Pressure:
+326,26.91,Frontal Area of Car:
+395,43,Outside Temperature:
+395,150,Total Passenger Weight:
+395,100,Total Cargo Weight:
+395,missing,Tire Pressure:
+395,29.28,Frontal Area of Car:
+301,58,Outside Temperature:
+301,175,Total Passenger Weight:
+301,20,Total Cargo Weight:
+301,missing,Tire Pressure:
+301,26.91,Frontal Area of Car:
+396,43,Outside Temperature:
+396,165,Total Passenger Weight:
+396,100,Total Cargo Weight:
+396,missing,Tire Pressure:
+396,29.28,Frontal Area of Car:
+394,43,Outside Temperature:
+394,165,Total Passenger Weight:
+394,50,Total Cargo Weight:
+394,missing,Tire Pressure:
+394,29.28,Frontal Area of Car:
+554,50,Outside Temperature:
+554,160,Total Passenger Weight:
+554,60,Total Cargo Weight:
+554,32,Tire Pressure:
+554,26.91,Frontal Area of Car:
+397,43,Outside Temperature:
+397,165,Total Passenger Weight:
+397,100,Total Cargo Weight:
+397,missing,Tire Pressure:
+397,29.28,Frontal Area of Car:
+316,60,Outside Temperature:
+316,230,Total Passenger Weight:
+316,300,Total Cargo Weight:
+316,missing,Tire Pressure:
+316,26.91,Frontal Area of Car:
+513,55,Outside Temperature:
+513,500,Total Passenger Weight:
+513,5,Total Cargo Weight:
+513,missing,Tire Pressure:
+513,28.63,Frontal Area of Car:
+510,48,Outside Temperature:
+510,185,Total Passenger Weight:
+510,5,Total Cargo Weight:
+510,missing,Tire Pressure:
+510,28.63,Frontal Area of Car:
+505,52,Outside Temperature:
+505,185,Total Passenger Weight:
+505,5,Total Cargo Weight:
+505,missing,Tire Pressure:
+505,28.63,Frontal Area of Car:
+511,55,Outside Temperature:
+511,500,Total Passenger Weight:
+511,5,Total Cargo Weight:
+511,missing,Tire Pressure:
+511,28.63,Frontal Area of Car:
+514,55,Outside Temperature:
+514,500,Total Passenger Weight:
+514,5,Total Cargo Weight:
+514,missing,Tire Pressure:
+514,28.63,Frontal Area of Car:
+288,64,Outside Temperature:
+288,230,Total Passenger Weight:
+288,300,Total Cargo Weight:
+288,missing,Tire Pressure:
+288,26.91,Frontal Area of Car:
+330,55,Outside Temperature:
+330,230,Total Passenger Weight:
+330,300,Total Cargo Weight:
+330,missing,Tire Pressure:
+330,26.91,Frontal Area of Car:
+516,55,Outside Temperature:
+516,500,Total Passenger Weight:
+516,5,Total Cargo Weight:
+516,missing,Tire Pressure:
+516,28.63,Frontal Area of Car:
+506,60,Outside Temperature:
+506,185,Total Passenger Weight:
+506,5,Total Cargo Weight:
+506,missing,Tire Pressure:
+506,28.63,Frontal Area of Car:
+390,40,Outside Temperature:
+390,1,Total Passenger Weight:
+390,75,Total Cargo Weight:
+390,28,Tire Pressure:
+390,29.28,Frontal Area of Car:
+508,48,Outside Temperature:
+508,185,Total Passenger Weight:
+508,5,Total Cargo Weight:
+508,missing,Tire Pressure:
+508,28.63,Frontal Area of Car:
+476,52,Outside Temperature:
+476,160,Total Passenger Weight:
+476,0,Total Cargo Weight:
+476,33,Tire Pressure:
+476,28.63,Frontal Area of Car:
+340,52,Outside Temperature:
+340,175,Total Passenger Weight:
+340,30,Total Cargo Weight:
+340,34,Tire Pressure:
+340,26.91,Frontal Area of Car:
+374,50,Outside Temperature:
+374,200,Total Passenger Weight:
+374,0,Total Cargo Weight:
+374,41,Tire Pressure:
+374,30.03,Frontal Area of Car:
+509,48,Outside Temperature:
+509,185,Total Passenger Weight:
+509,5,Total Cargo Weight:
+509,missing,Tire Pressure:
+509,28.63,Frontal Area of Car:
+299,45,Outside Temperature:
+299,265,Total Passenger Weight:
+299,0,Total Cargo Weight:
+299,36,Tire Pressure:
+299,28.63,Frontal Area of Car:
+300,50,Outside Temperature:
+300,265,Total Passenger Weight:
+300,0,Total Cargo Weight:
+300,36,Tire Pressure:
+300,28.63,Frontal Area of Car:
+391,45,Outside Temperature:
+391,160,Total Passenger Weight:
+391,25,Total Cargo Weight:
+391,28,Tire Pressure:
+391,29.28,Frontal Area of Car:
+266,37,Outside Temperature:
+266,265,Total Passenger Weight:
+266,0,Total Cargo Weight:
+266,36,Tire Pressure:
+266,28.63,Frontal Area of Car:
+290,40,Outside Temperature:
+290,300,Total Passenger Weight:
+290,75,Total Cargo Weight:
+290,28,Tire Pressure:
+290,29.28,Frontal Area of Car:
+496,47,Outside Temperature:
+496,155,Total Passenger Weight:
+496,35,Total Cargo Weight:
+496,missing,Tire Pressure:
+496,29.28,Frontal Area of Car:
+303,45,Outside Temperature:
+303,195,Total Passenger Weight:
+303,50,Total Cargo Weight:
+303,missing,Tire Pressure:
+303,29.28,Frontal Area of Car:
+207,50,Outside Temperature:
+207,195,Total Passenger Weight:
+207,50,Total Cargo Weight:
+207,missing,Tire Pressure:
+207,29.28,Frontal Area of Car:
+499,45,Outside Temperature:
+499,155,Total Passenger Weight:
+499,35,Total Cargo Weight:
+499,missing,Tire Pressure:
+499,29.28,Frontal Area of Car:
+495,46,Outside Temperature:
+495,155,Total Passenger Weight:
+495,28,Total Cargo Weight:
+495,missing,Tire Pressure:
+495,29.28,Frontal Area of Car:
+494,46,Outside Temperature:
+494,450,Total Passenger Weight:
+494,257,Total Cargo Weight:
+494,missing,Tire Pressure:
+494,29.28,Frontal Area of Car:
+497,55,Outside Temperature:
+497,155,Total Passenger Weight:
+497,35,Total Cargo Weight:
+497,missing,Tire Pressure:
+497,29.28,Frontal Area of Car:
+305,58,Outside Temperature:
+305,195,Total Passenger Weight:
+305,10,Total Cargo Weight:
+305,missing,Tire Pressure:
+305,29.28,Frontal Area of Car:
+304,50,Outside Temperature:
+304,340,Total Passenger Weight:
+304,50,Total Cargo Weight:
+304,missing,Tire Pressure:
+304,29.28,Frontal Area of Car:
+498,52,Outside Temperature:
+498,155,Total Passenger Weight:
+498,35,Total Cargo Weight:
+498,missing,Tire Pressure:
+498,29.28,Frontal Area of Car:
+113,80,Outside Temperature:
+113,150,Total Passenger Weight:
+113,0,Total Cargo Weight:
+113,40,Tire Pressure:
+113,29.28,Frontal Area of Car:
+500,57,Outside Temperature:
+500,300,Total Passenger Weight:
+500,55,Total Cargo Weight:
+500,missing,Tire Pressure:
+500,29.28,Frontal Area of Car:
+519,50,Outside Temperature:
+519,115,Total Passenger Weight:
+519,0,Total Cargo Weight:
+519,missing,Tire Pressure:
+519,29.28,Frontal Area of Car:
+520,50,Outside Temperature:
+520,115,Total Passenger Weight:
+520,0,Total Cargo Weight:
+520,missing,Tire Pressure:
+520,29.28,Frontal Area of Car:
+302,40,Outside Temperature:
+302,190,Total Passenger Weight:
+302,0,Total Cargo Weight:
+302,32,Tire Pressure:
+302,29.28,Frontal Area of Car:
+673,60,Outside Temperature:
+673,220,Total Passenger Weight:
+673,10,Total Cargo Weight:
+673,32,Tire Pressure:
+673,26.91,Frontal Area of Car:
+112,85,Outside Temperature:
+112,150,Total Passenger Weight:
+112,0,Total Cargo Weight:
+112,40,Tire Pressure:
+112,29.28,Frontal Area of Car:
+676,55,Outside Temperature:
+676,220,Total Passenger Weight:
+676,10,Total Cargo Weight:
+676,32,Tire Pressure:
+676,26.91,Frontal Area of Car:
+203,70,Outside Temperature:
+203,200,Total Passenger Weight:
+203,30,Total Cargo Weight:
+203,missing,Tire Pressure:
+203,26.91,Frontal Area of Car:
+331,63,Outside Temperature:
+331,150,Total Passenger Weight:
+331,20,Total Cargo Weight:
+331,32,Tire Pressure:
+331,29.28,Frontal Area of Car:
+690,79,Outside Temperature:
+690,190,Total Passenger Weight:
+690,10,Total Cargo Weight:
+690,47,Tire Pressure:
+690,29.28,Frontal Area of Car:
+202,65,Outside Temperature:
+202,200,Total Passenger Weight:
+202,30,Total Cargo Weight:
+202,missing,Tire Pressure:
+202,26.91,Frontal Area of Car:
+201,63,Outside Temperature:
+201,200,Total Passenger Weight:
+201,30,Total Cargo Weight:
+201,missing,Tire Pressure:
+201,26.91,Frontal Area of Car:
+400,65,Outside Temperature:
+400,190,Total Passenger Weight:
+400,50,Total Cargo Weight:
+400,missing,Tire Pressure:
+400,26.91,Frontal Area of Car:
+518,49,Outside Temperature:
+518,215,Total Passenger Weight:
+518,10,Total Cargo Weight:
+518,33,Tire Pressure:
+518,23.38,Frontal Area of Car:
+328,65,Outside Temperature:
+328,155,Total Passenger Weight:
+328,15,Total Cargo Weight:
+328,33,Tire Pressure:
+328,29.28,Frontal Area of Car:
+528,54,Outside Temperature:
+528,215,Total Passenger Weight:
+528,10,Total Cargo Weight:
+528,33,Tire Pressure:
+528,23.38,Frontal Area of Car:
+450,72,Outside Temperature:
+450,215,Total Passenger Weight:
+450,10,Total Cargo Weight:
+450,33,Tire Pressure:
+450,23.38,Frontal Area of Car:
+515,57,Outside Temperature:
+515,215,Total Passenger Weight:
+515,10,Total Cargo Weight:
+515,33,Tire Pressure:
+515,23.38,Frontal Area of Car:
+451,53,Outside Temperature:
+451,215,Total Passenger Weight:
+451,10,Total Cargo Weight:
+451,33,Tire Pressure:
+451,23.38,Frontal Area of Car:
+517,64,Outside Temperature:
+517,215,Total Passenger Weight:
+517,10,Total Cargo Weight:
+517,33,Tire Pressure:
+517,23.38,Frontal Area of Car:
+526,44,Outside Temperature:
+526,215,Total Passenger Weight:
+526,10,Total Cargo Weight:
+526,33,Tire Pressure:
+526,23.38,Frontal Area of Car:
+413,59,Outside Temperature:
+413,215,Total Passenger Weight:
+413,10,Total Cargo Weight:
+413,33,Tire Pressure:
+413,23.38,Frontal Area of Car:
+524,53,Outside Temperature:
+524,215,Total Passenger Weight:
+524,10,Total Cargo Weight:
+524,33,Tire Pressure:
+524,23.38,Frontal Area of Car:
+412,54,Outside Temperature:
+412,215,Total Passenger Weight:
+412,10,Total Cargo Weight:
+412,33,Tire Pressure:
+412,23.38,Frontal Area of Car:
+414,48,Outside Temperature:
+414,215,Total Passenger Weight:
+414,10,Total Cargo Weight:
+414,33,Tire Pressure:
+414,23.38,Frontal Area of Car:
+591,57,Outside Temperature:
+591,230,Total Passenger Weight:
+591,0,Total Cargo Weight:
+591,missing,Tire Pressure:
+591,29.28,Frontal Area of Car:
+465,70,Outside Temperature:
+465,200,Total Passenger Weight:
+465,10,Total Cargo Weight:
+465,missing,Tire Pressure:
+465,28.63,Frontal Area of Car:
+392,58,Outside Temperature:
+392,215,Total Passenger Weight:
+392,10,Total Cargo Weight:
+392,29,Tire Pressure:
+392,23.38,Frontal Area of Car:
+692,70,Outside Temperature:
+692,170,Total Passenger Weight:
+692,0,Total Cargo Weight:
+692,missing,Tire Pressure:
+692,28.63,Frontal Area of Car:
+466,70,Outside Temperature:
+466,200,Total Passenger Weight:
+466,10,Total Cargo Weight:
+466,missing,Tire Pressure:
+466,28.63,Frontal Area of Car:
+464,70,Outside Temperature:
+464,200,Total Passenger Weight:
+464,10,Total Cargo Weight:
+464,missing,Tire Pressure:
+464,28.63,Frontal Area of Car:
+691,60,Outside Temperature:
+691,170,Total Passenger Weight:
+691,0,Total Cargo Weight:
+691,33,Tire Pressure:
+691,28.63,Frontal Area of Car:
+571,47,Outside Temperature:
+571,176,Total Passenger Weight:
+571,13,Total Cargo Weight:
+571,missing,Tire Pressure:
+571,29.28,Frontal Area of Car:
+589,50,Outside Temperature:
+589,310,Total Passenger Weight:
+589,0,Total Cargo Weight:
+589,missing,Tire Pressure:
+589,29.28,Frontal Area of Car:
+594,51,Outside Temperature:
+594,155,Total Passenger Weight:
+594,10,Total Cargo Weight:
+594,missing,Tire Pressure:
+594,26.91,Frontal Area of Car:
+595,52,Outside Temperature:
+595,155,Total Passenger Weight:
+595,10,Total Cargo Weight:
+595,missing,Tire Pressure:
+595,26.91,Frontal Area of Car:
+588,55,Outside Temperature:
+588,190,Total Passenger Weight:
+588,0,Total Cargo Weight:
+588,missing,Tire Pressure:
+588,29.28,Frontal Area of Car:
+560,57,Outside Temperature:
+560,200,Total Passenger Weight:
+560,25,Total Cargo Weight:
+560,missing,Tire Pressure:
+560,29.28,Frontal Area of Car:
+596,51,Outside Temperature:
+596,155,Total Passenger Weight:
+596,10,Total Cargo Weight:
+596,missing,Tire Pressure:
+596,26.91,Frontal Area of Car:
+559,45,Outside Temperature:
+559,200,Total Passenger Weight:
+559,25,Total Cargo Weight:
+559,missing,Tire Pressure:
+559,29.28,Frontal Area of Car:
+570,50,Outside Temperature:
+570,140,Total Passenger Weight:
+570,7,Total Cargo Weight:
+570,missing,Tire Pressure:
+570,29.28,Frontal Area of Car:
+557,42,Outside Temperature:
+557,212,Total Passenger Weight:
+557,25,Total Cargo Weight:
+557,missing,Tire Pressure:
+557,29.28,Frontal Area of Car:
+564,44,Outside Temperature:
+564,290,Total Passenger Weight:
+564,5,Total Cargo Weight:
+564,missing,Tire Pressure:
+564,29.28,Frontal Area of Car:
+562,42,Outside Temperature:
+562,290,Total Passenger Weight:
+562,5,Total Cargo Weight:
+562,missing,Tire Pressure:
+562,29.28,Frontal Area of Car:
+677,40,Outside Temperature:
+677,190,Total Passenger Weight:
+677,15,Total Cargo Weight:
+677,45,Tire Pressure:
+677,29.28,Frontal Area of Car:
+563,45,Outside Temperature:
+563,290,Total Passenger Weight:
+563,12,Total Cargo Weight:
+563,missing,Tire Pressure:
+563,29.28,Frontal Area of Car:
+590,50,Outside Temperature:
+590,190,Total Passenger Weight:
+590,0,Total Cargo Weight:
+590,missing,Tire Pressure:
+590,29.28,Frontal Area of Car:
+529,62,Outside Temperature:
+529,215,Total Passenger Weight:
+529,10,Total Cargo Weight:
+529,33,Tire Pressure:
+529,23.38,Frontal Area of Car:
+525,66,Outside Temperature:
+525,215,Total Passenger Weight:
+525,10,Total Cargo Weight:
+525,33,Tire Pressure:
+525,23.38,Frontal Area of Car:
+561,39,Outside Temperature:
+561,290,Total Passenger Weight:
+561,3,Total Cargo Weight:
+561,missing,Tire Pressure:
+561,29.28,Frontal Area of Car:
+523,52,Outside Temperature:
+523,215,Total Passenger Weight:
+523,10,Total Cargo Weight:
+523,33,Tire Pressure:
+523,23.38,Frontal Area of Car:
+449,57,Outside Temperature:
+449,215,Total Passenger Weight:
+449,10,Total Cargo Weight:
+449,33,Tire Pressure:
+449,23.38,Frontal Area of Car:
+572,55,Outside Temperature:
+572,140,Total Passenger Weight:
+572,21,Total Cargo Weight:
+572,missing,Tire Pressure:
+572,29.28,Frontal Area of Car:
+621,52,Outside Temperature:
+621,155,Total Passenger Weight:
+621,0,Total Cargo Weight:
+621,missing,Tire Pressure:
+621,26.91,Frontal Area of Car:
+593,24,Outside Temperature:
+593,147,Total Passenger Weight:
+593,0,Total Cargo Weight:
+593,missing,Tire Pressure:
+593,37.57,Frontal Area of Car:
+598,33,Outside Temperature:
+598,147,Total Passenger Weight:
+598,0,Total Cargo Weight:
+598,missing,Tire Pressure:
+598,26.91,Frontal Area of Car:
+597,33,Outside Temperature:
+597,147,Total Passenger Weight:
+597,0,Total Cargo Weight:
+597,missing,Tire Pressure:
+597,35.01,Frontal Area of Car:
+592,24,Outside Temperature:
+592,147,Total Passenger Weight:
+592,0,Total Cargo Weight:
+592,missing,Tire Pressure:
+592,26.91,Frontal Area of Car:
+655,64,Outside Temperature:
+655,280,Total Passenger Weight:
+655,10,Total Cargo Weight:
+655,35,Tire Pressure:
+655,18.3,Frontal Area of Car:
+622,48,Outside Temperature:
+622,150,Total Passenger Weight:
+622,0,Total Cargo Weight:
+622,missing,Tire Pressure:
+622,37.57,Frontal Area of Car:
+620,52,Outside Temperature:
+620,155,Total Passenger Weight:
+620,0,Total Cargo Weight:
+620,missing,Tire Pressure:
+620,26.91,Frontal Area of Car:
+611,50,Outside Temperature:
+611,146,Total Passenger Weight:
+611,40,Total Cargo Weight:
+611,29,Tire Pressure:
+611,30.03,Frontal Area of Car:
+457,50,Outside Temperature:
+457,320,Total Passenger Weight:
+457,0,Total Cargo Weight:
+457,32,Tire Pressure:
+457,26.91,Frontal Area of Car:
+667,60,Outside Temperature:
+667,200,Total Passenger Weight:
+667,300,Total Cargo Weight:
+667,40,Tire Pressure:
+667,37.57,Frontal Area of Car:
+379,43,Outside Temperature:
+379,150,Total Passenger Weight:
+379,10,Total Cargo Weight:
+379,32,Tire Pressure:
+379,26.91,Frontal Area of Car:
+423,58,Outside Temperature:
+423,150,Total Passenger Weight:
+423,30,Total Cargo Weight:
+423,32,Tire Pressure:
+423,26.91,Frontal Area of Car:
+431,40,Outside Temperature:
+431,150,Total Passenger Weight:
+431,10,Total Cargo Weight:
+431,32,Tire Pressure:
+431,26.91,Frontal Area of Car:
+639,80,Outside Temperature:
+639,350,Total Passenger Weight:
+639,50,Total Cargo Weight:
+639,32,Tire Pressure:
+639,28.63,Frontal Area of Car:
+459,50,Outside Temperature:
+459,320,Total Passenger Weight:
+459,0,Total Cargo Weight:
+459,32,Tire Pressure:
+459,26.91,Frontal Area of Car:
+456,50,Outside Temperature:
+456,320,Total Passenger Weight:
+456,0,Total Cargo Weight:
+456,32,Tire Pressure:
+456,26.91,Frontal Area of Car:
+458,50,Outside Temperature:
+458,320,Total Passenger Weight:
+458,0,Total Cargo Weight:
+458,32,Tire Pressure:
+458,26.91,Frontal Area of Car:
+462,50,Outside Temperature:
+462,320,Total Passenger Weight:
+462,0,Total Cargo Weight:
+462,32,Tire Pressure:
+462,26.91,Frontal Area of Car:
+212,45,Outside Temperature:
+212,201,Total Passenger Weight:
+212,10,Total Cargo Weight:
+212,30,Tire Pressure:
+212,29.28,Frontal Area of Car:
+432,40,Outside Temperature:
+432,150,Total Passenger Weight:
+432,10,Total Cargo Weight:
+432,32,Tire Pressure:
+432,26.91,Frontal Area of Car:
+463,50,Outside Temperature:
+463,320,Total Passenger Weight:
+463,0,Total Cargo Weight:
+463,32,Tire Pressure:
+463,26.91,Frontal Area of Car:
+428,52,Outside Temperature:
+428,150,Total Passenger Weight:
+428,10,Total Cargo Weight:
+428,32,Tire Pressure:
+428,26.91,Frontal Area of Car:
+200,75,Outside Temperature:
+200,180,Total Passenger Weight:
+200,10,Total Cargo Weight:
+200,38,Tire Pressure:
+200,26.91,Frontal Area of Car:
+427,52,Outside Temperature:
+427,150,Total Passenger Weight:
+427,10,Total Cargo Weight:
+427,32,Tire Pressure:
+427,26.91,Frontal Area of Car:
+422,58,Outside Temperature:
+422,150,Total Passenger Weight:
+422,30,Total Cargo Weight:
+422,32,Tire Pressure:
+422,26.91,Frontal Area of Car:
+420,58,Outside Temperature:
+420,150,Total Passenger Weight:
+420,30,Total Cargo Weight:
+420,32,Tire Pressure:
+420,26.91,Frontal Area of Car:
+42,55,Outside Temperature:
+42,150,Total Passenger Weight:
+42,150,Total Cargo Weight:
+42,missing,Tire Pressure:
+42,27.69,Frontal Area of Car:
+688,60,Outside Temperature:
+688,400,Total Passenger Weight:
+688,0,Total Cargo Weight:
+688,20,Tire Pressure:
+688,29.28,Frontal Area of Car:
+455,42,Outside Temperature:
+455,143,Total Passenger Weight:
+455,5,Total Cargo Weight:
+455,missing,Tire Pressure:
+455,29.28,Frontal Area of Car:
+30,57,Outside Temperature:
+30,150,Total Passenger Weight:
+30,100,Total Cargo Weight:
+30,missing,Tire Pressure:
+30,28.63,Frontal Area of Car:
+29,53,Outside Temperature:
+29,150,Total Passenger Weight:
+29,100,Total Cargo Weight:
+29,missing,Tire Pressure:
+29,28.63,Frontal Area of Car:
+440,50,Outside Temperature:
+440,150,Total Passenger Weight:
+440,10,Total Cargo Weight:
+440,32,Tire Pressure:
+440,26.91,Frontal Area of Car:
+683,60,Outside Temperature:
+683,400,Total Passenger Weight:
+683,0,Total Cargo Weight:
+683,20,Tire Pressure:
+683,29.28,Frontal Area of Car:
+670,40,Outside Temperature:
+670,200,Total Passenger Weight:
+670,500,Total Cargo Weight:
+670,40,Tire Pressure:
+670,37.57,Frontal Area of Car:
+641,75,Outside Temperature:
+641,165,Total Passenger Weight:
+641,40,Total Cargo Weight:
+641,50,Tire Pressure:
+641,41.87,Frontal Area of Car:
+674,30,Outside Temperature:
+674,220,Total Passenger Weight:
+674,300,Total Cargo Weight:
+674,40,Tire Pressure:
+674,37.57,Frontal Area of Car:
+8,74,Outside Temperature:
+8,150,Total Passenger Weight:
+8,100,Total Cargo Weight:
+8,44,Tire Pressure:
+8,26.81,Frontal Area of Car:
+461,50,Outside Temperature:
+461,320,Total Passenger Weight:
+461,0,Total Cargo Weight:
+461,32,Tire Pressure:
+461,26.91,Frontal Area of Car:
+53,62,Outside Temperature:
+53,150,Total Passenger Weight:
+53,150,Total Cargo Weight:
+53,missing,Tire Pressure:
+53,27.69,Frontal Area of Car:
+23,51,Outside Temperature:
+23,150,Total Passenger Weight:
+23,100,Total Cargo Weight:
+23,missing,Tire Pressure:
+23,28.63,Frontal Area of Car:
+470,48,Outside Temperature:
+470,320,Total Passenger Weight:
+470,5,Total Cargo Weight:
+470,32,Tire Pressure:
+470,26.91,Frontal Area of Car:
+640,80,Outside Temperature:
+640,250,Total Passenger Weight:
+640,100,Total Cargo Weight:
+640,32,Tire Pressure:
+640,28.63,Frontal Area of Car:
+37,50,Outside Temperature:
+37,150,Total Passenger Weight:
+37,150,Total Cargo Weight:
+37,missing,Tire Pressure:
+37,27.69,Frontal Area of Car:
+32,59,Outside Temperature:
+32,150,Total Passenger Weight:
+32,100,Total Cargo Weight:
+32,missing,Tire Pressure:
+32,28.63,Frontal Area of Car:
+429,54,Outside Temperature:
+429,150,Total Passenger Weight:
+429,10,Total Cargo Weight:
+429,32,Tire Pressure:
+429,26.91,Frontal Area of Car:
+682,60,Outside Temperature:
+682,400,Total Passenger Weight:
+682,0,Total Cargo Weight:
+682,20,Tire Pressure:
+682,29.28,Frontal Area of Car:
+668,60,Outside Temperature:
+668,220,Total Passenger Weight:
+668,300,Total Cargo Weight:
+668,40,Tire Pressure:
+668,37.57,Frontal Area of Car:
+421,58,Outside Temperature:
+421,150,Total Passenger Weight:
+421,30,Total Cargo Weight:
+421,32,Tire Pressure:
+421,26.91,Frontal Area of Car:
+31,57,Outside Temperature:
+31,150,Total Passenger Weight:
+31,100,Total Cargo Weight:
+31,missing,Tire Pressure:
+31,28.63,Frontal Area of Car:
+25,52,Outside Temperature:
+25,150,Total Passenger Weight:
+25,100,Total Cargo Weight:
+25,missing,Tire Pressure:
+25,28.63,Frontal Area of Car:
+665,60,Outside Temperature:
+665,200,Total Passenger Weight:
+665,300,Total Cargo Weight:
+665,40,Tire Pressure:
+665,37.57,Frontal Area of Car:
+629,75,Outside Temperature:
+629,135,Total Passenger Weight:
+629,0,Total Cargo Weight:
+629,30,Tire Pressure:
+629,26.91,Frontal Area of Car:
+686,60,Outside Temperature:
+686,400,Total Passenger Weight:
+686,0,Total Cargo Weight:
+686,20,Tire Pressure:
+686,29.28,Frontal Area of Car:
+22,52,Outside Temperature:
+22,150,Total Passenger Weight:
+22,100,Total Cargo Weight:
+22,missing,Tire Pressure:
+22,28.63,Frontal Area of Car:
+47,58,Outside Temperature:
+47,150,Total Passenger Weight:
+47,150,Total Cargo Weight:
+47,missing,Tire Pressure:
+47,27.69,Frontal Area of Car:
+41,55,Outside Temperature:
+41,150,Total Passenger Weight:
+41,150,Total Cargo Weight:
+41,missing,Tire Pressure:
+41,27.69,Frontal Area of Car:
+27,50,Outside Temperature:
+27,150,Total Passenger Weight:
+27,100,Total Cargo Weight:
+27,missing,Tire Pressure:
+27,28.63,Frontal Area of Car:
+84,80,Outside Temperature:
+84,400,Total Passenger Weight:
+84,0,Total Cargo Weight:
+84,40,Tire Pressure:
+84,29.28,Frontal Area of Car:
+632,78,Outside Temperature:
+632,135,Total Passenger Weight:
+632,0,Total Cargo Weight:
+632,30,Tire Pressure:
+632,26.91,Frontal Area of Car:
+50,60,Outside Temperature:
+50,150,Total Passenger Weight:
+50,150,Total Cargo Weight:
+50,missing,Tire Pressure:
+50,27.69,Frontal Area of Car:
+9,74,Outside Temperature:
+9,150,Total Passenger Weight:
+9,100,Total Cargo Weight:
+9,44,Tire Pressure:
+9,26.81,Frontal Area of Car:
+669,40,Outside Temperature:
+669,200,Total Passenger Weight:
+669,500,Total Cargo Weight:
+669,40,Tire Pressure:
+669,37.57,Frontal Area of Car:
+128,60,Outside Temperature:
+128,550,Total Passenger Weight:
+128,300,Total Cargo Weight:
+128,40,Tire Pressure:
+128,30.03,Frontal Area of Car:
+672,60,Outside Temperature:
+672,220,Total Passenger Weight:
+672,300,Total Cargo Weight:
+672,40,Tire Pressure:
+672,37.57,Frontal Area of Car:
+35,59,Outside Temperature:
+35,150,Total Passenger Weight:
+35,100,Total Cargo Weight:
+35,missing,Tire Pressure:
+35,28.63,Frontal Area of Car:
+681,60,Outside Temperature:
+681,400,Total Passenger Weight:
+681,0,Total Cargo Weight:
+681,20,Tire Pressure:
+681,29.28,Frontal Area of Car:
+664,60,Outside Temperature:
+664,220,Total Passenger Weight:
+664,300,Total Cargo Weight:
+664,40,Tire Pressure:
+664,37.57,Frontal Area of Car:
+21,50,Outside Temperature:
+21,150,Total Passenger Weight:
+21,100,Total Cargo Weight:
+21,missing,Tire Pressure:
+21,28.63,Frontal Area of Car:
+44,58,Outside Temperature:
+44,150,Total Passenger Weight:
+44,150,Total Cargo Weight:
+44,missing,Tire Pressure:
+44,27.69,Frontal Area of Car:
+687,60,Outside Temperature:
+687,400,Total Passenger Weight:
+687,0,Total Cargo Weight:
+687,20,Tire Pressure:
+687,29.28,Frontal Area of Car:
+33,59,Outside Temperature:
+33,150,Total Passenger Weight:
+33,100,Total Cargo Weight:
+33,missing,Tire Pressure:
+33,28.63,Frontal Area of Car:
+619,42,Outside Temperature:
+619,180,Total Passenger Weight:
+619,50,Total Cargo Weight:
+619,missing,Tire Pressure:
+619,26.91,Frontal Area of Car:
+85,85,Outside Temperature:
+85,400,Total Passenger Weight:
+85,0,Total Cargo Weight:
+85,40,Tire Pressure:
+85,29.28,Frontal Area of Car:
+671,60,Outside Temperature:
+671,200,Total Passenger Weight:
+671,300,Total Cargo Weight:
+671,40,Tire Pressure:
+671,37.57,Frontal Area of Car:
+442,50,Outside Temperature:
+442,150,Total Passenger Weight:
+442,10,Total Cargo Weight:
+442,32,Tire Pressure:
+442,26.91,Frontal Area of Car:
+522,45,Outside Temperature:
+522,400,Total Passenger Weight:
+522,0,Total Cargo Weight:
+522,missing,Tire Pressure:
+522,29.28,Frontal Area of Car:
+633,78,Outside Temperature:
+633,135,Total Passenger Weight:
+633,0,Total Cargo Weight:
+633,30,Tire Pressure:
+633,26.91,Frontal Area of Car:
+26,50,Outside Temperature:
+26,150,Total Passenger Weight:
+26,100,Total Cargo Weight:
+26,missing,Tire Pressure:
+26,28.63,Frontal Area of Car:
+689,60,Outside Temperature:
+689,400,Total Passenger Weight:
+689,0,Total Cargo Weight:
+689,20,Tire Pressure:
+689,29.28,Frontal Area of Car:
+435,60,Outside Temperature:
+435,375,Total Passenger Weight:
+435,0,Total Cargo Weight:
+435,32,Tire Pressure:
+435,28.63,Frontal Area of Car:
+54,65,Outside Temperature:
+54,150,Total Passenger Weight:
+54,150,Total Cargo Weight:
+54,missing,Tire Pressure:
+54,27.69,Frontal Area of Car:
+17,80,Outside Temperature:
+17,400,Total Passenger Weight:
+17,0,Total Cargo Weight:
+17,40,Tire Pressure:
+17,29.28,Frontal Area of Car:
+426,56,Outside Temperature:
+426,150,Total Passenger Weight:
+426,10,Total Cargo Weight:
+426,32,Tire Pressure:
+426,26.91,Frontal Area of Car:
+684,60,Outside Temperature:
+684,400,Total Passenger Weight:
+684,0,Total Cargo Weight:
+684,20,Tire Pressure:
+684,29.28,Frontal Area of Car:
+20,58,Outside Temperature:
+20,150,Total Passenger Weight:
+20,100,Total Cargo Weight:
+20,missing,Tire Pressure:
+20,26.81,Frontal Area of Car:
+19,50,Outside Temperature:
+19,150,Total Passenger Weight:
+19,100,Total Cargo Weight:
+19,missing,Tire Pressure:
+19,28.63,Frontal Area of Car:
+685,60,Outside Temperature:
+685,400,Total Passenger Weight:
+685,0,Total Cargo Weight:
+685,20,Tire Pressure:
+685,29.28,Frontal Area of Car:
+425,56,Outside Temperature:
+425,150,Total Passenger Weight:
+425,10,Total Cargo Weight:
+425,32,Tire Pressure:
+425,26.91,Frontal Area of Car:
+521,45,Outside Temperature:
+521,400,Total Passenger Weight:
+521,0,Total Cargo Weight:
+521,missing,Tire Pressure:
+521,29.28,Frontal Area of Car:
+448,50,Outside Temperature:
+448,150,Total Passenger Weight:
+448,10,Total Cargo Weight:
+448,32,Tire Pressure:
+448,26.91,Frontal Area of Car:
+24,52,Outside Temperature:
+24,150,Total Passenger Weight:
+24,100,Total Cargo Weight:
+24,missing,Tire Pressure:
+24,28.63,Frontal Area of Car:
+424,44,Outside Temperature:
+424,150,Total Passenger Weight:
+424,15,Total Cargo Weight:
+424,32,Tire Pressure:
+424,26.91,Frontal Area of Car:
+40,55,Outside Temperature:
+40,150,Total Passenger Weight:
+40,150,Total Cargo Weight:
+40,missing,Tire Pressure:
+40,27.69,Frontal Area of Car:
+675,30,Outside Temperature:
+675,200,Total Passenger Weight:
+675,300,Total Cargo Weight:
+675,40,Tire Pressure:
+675,37.57,Frontal Area of Car:
+468,48,Outside Temperature:
+468,320,Total Passenger Weight:
+468,5,Total Cargo Weight:
+468,32,Tire Pressure:
+468,26.91,Frontal Area of Car:
+634,78,Outside Temperature:
+634,135,Total Passenger Weight:
+634,0,Total Cargo Weight:
+634,30,Tire Pressure:
+634,26.91,Frontal Area of Car:
+430,54,Outside Temperature:
+430,150,Total Passenger Weight:
+430,10,Total Cargo Weight:
+430,32,Tire Pressure:
+430,26.91,Frontal Area of Car:
+469,48,Outside Temperature:
+469,320,Total Passenger Weight:
+469,5,Total Cargo Weight:
+469,32,Tire Pressure:
+469,26.91,Frontal Area of Car:
+49,60,Outside Temperature:
+49,150,Total Passenger Weight:
+49,150,Total Cargo Weight:
+49,missing,Tire Pressure:
+49,27.69,Frontal Area of Car:
+18,85,Outside Temperature:
+18,400,Total Passenger Weight:
+18,0,Total Cargo Weight:
+18,40,Tire Pressure:
+18,29.28,Frontal Area of Car:
+460,50,Outside Temperature:
+460,320,Total Passenger Weight:
+460,0,Total Cargo Weight:
+460,32,Tire Pressure:
+460,26.91,Frontal Area of Car:
+436,60,Outside Temperature:
+436,375,Total Passenger Weight:
+436,0,Total Cargo Weight:
+436,32,Tire Pressure:
+436,28.63,Frontal Area of Car:
+527,32,Outside Temperature:
+527,146,Total Passenger Weight:
+527,12,Total Cargo Weight:
+527,missing,Tire Pressure:
+527,29.28,Frontal Area of Car:
+250,28,Outside Temperature:
+250,146,Total Passenger Weight:
+250,156,Total Cargo Weight:
+250,missing,Tire Pressure:
+250,29.28,Frontal Area of Car:
+652,70,Outside Temperature:
+652,160,Total Passenger Weight:
+652,100,Total Cargo Weight:
+652,32,Tire Pressure:
+652,29.28,Frontal Area of Car:
+662,52,Outside Temperature:
+662,165,Total Passenger Weight:
+662,100,Total Cargo Weight:
+662,32,Tire Pressure:
+662,29.28,Frontal Area of Car:
+443,48,Outside Temperature:
+443,175,Total Passenger Weight:
+443,0,Total Cargo Weight:
+443,missing,Tire Pressure:
+443,29.28,Frontal Area of Car:
+433,55,Outside Temperature:
+433,150,Total Passenger Weight:
+433,0,Total Cargo Weight:
+433,32,Tire Pressure:
+433,26.91,Frontal Area of Car:
+445,55,Outside Temperature:
+445,175,Total Passenger Weight:
+445,0,Total Cargo Weight:
+445,missing,Tire Pressure:
+445,29.28,Frontal Area of Car:
+434,55,Outside Temperature:
+434,150,Total Passenger Weight:
+434,0,Total Cargo Weight:
+434,32,Tire Pressure:
+434,26.91,Frontal Area of Car:
+446,56,Outside Temperature:
+446,225,Total Passenger Weight:
+446,0,Total Cargo Weight:
+446,missing,Tire Pressure:
+446,28.63,Frontal Area of Car:
+444,48,Outside Temperature:
+444,175,Total Passenger Weight:
+444,0,Total Cargo Weight:
+444,missing,Tire Pressure:
+444,29.28,Frontal Area of Car:
+586,65,Outside Temperature:
+586,180,Total Passenger Weight:
+586,60,Total Cargo Weight:
+586,32,Tire Pressure:
+586,29.28,Frontal Area of Car:
+447,48,Outside Temperature:
+447,225,Total Passenger Weight:
+447,0,Total Cargo Weight:
+447,missing,Tire Pressure:
+447,28.63,Frontal Area of Car:
+654,64,Outside Temperature:
+654,280,Total Passenger Weight:
+654,10,Total Cargo Weight:
+654,35,Tire Pressure:
+654,18.3,Frontal Area of Car:
+643,75,Outside Temperature:
+643,259,Total Passenger Weight:
+643,10,Total Cargo Weight:
+643,35,Tire Pressure:
+643,18.3,Frontal Area of Car:
+454,72,Outside Temperature:
+454,180,Total Passenger Weight:
+454,60,Total Cargo Weight:
+454,32,Tire Pressure:
+454,30.03,Frontal Area of Car:
+452,82,Outside Temperature:
+452,180,Total Passenger Weight:
+452,60,Total Cargo Weight:
+452,32,Tire Pressure:
+452,29.28,Frontal Area of Car:
+93,85,Outside Temperature:
+93,180,Total Passenger Weight:
+93,60,Total Cargo Weight:
+93,32,Tire Pressure:
+93,29.28,Frontal Area of Car:
+92,82,Outside Temperature:
+92,180,Total Passenger Weight:
+92,60,Total Cargo Weight:
+92,32,Tire Pressure:
+92,29.28,Frontal Area of Car:
+659,64,Outside Temperature:
+659,280,Total Passenger Weight:
+659,10,Total Cargo Weight:
+659,35,Tire Pressure:
+659,18.3,Frontal Area of Car:
+534,20,Outside Temperature:
+534,170,Total Passenger Weight:
+534,50,Total Cargo Weight:
+534,32,Tire Pressure:
+534,30.03,Frontal Area of Car:
+657,75,Outside Temperature:
+657,280,Total Passenger Weight:
+657,10,Total Cargo Weight:
+657,35,Tire Pressure:
+657,18.3,Frontal Area of Car:
+647,72,Outside Temperature:
+647,154,Total Passenger Weight:
+647,10,Total Cargo Weight:
+647,35,Tire Pressure:
+647,18.3,Frontal Area of Car:
+656,75,Outside Temperature:
+656,280,Total Passenger Weight:
+656,10,Total Cargo Weight:
+656,35,Tire Pressure:
+656,18.3,Frontal Area of Car:
+645,72,Outside Temperature:
+645,154,Total Passenger Weight:
+645,10,Total Cargo Weight:
+645,35,Tire Pressure:
+645,18.3,Frontal Area of Car:
+644,70,Outside Temperature:
+644,300,Total Passenger Weight:
+644,5,Total Cargo Weight:
+644,35,Tire Pressure:
+644,18.3,Frontal Area of Car:
+650,75,Outside Temperature:
+650,280,Total Passenger Weight:
+650,10,Total Cargo Weight:
+650,35,Tire Pressure:
+650,18.3,Frontal Area of Car:
+658,64,Outside Temperature:
+658,280,Total Passenger Weight:
+658,10,Total Cargo Weight:
+658,35,Tire Pressure:
+658,18.3,Frontal Area of Car:
+653,64,Outside Temperature:
+653,280,Total Passenger Weight:
+653,10,Total Cargo Weight:
+653,35,Tire Pressure:
+653,18.3,Frontal Area of Car:
+649,77,Outside Temperature:
+649,280,Total Passenger Weight:
+649,10,Total Cargo Weight:
+649,35,Tire Pressure:
+649,18.3,Frontal Area of Car:
+248,80,Outside Temperature:
+248,165,Total Passenger Weight:
+248,50,Total Cargo Weight:
+248,missing,Tire Pressure:
+248,26.91,Frontal Area of Car:
+651,64,Outside Temperature:
+651,154,Total Passenger Weight:
+651,10,Total Cargo Weight:
+651,35,Tire Pressure:
+651,18.3,Frontal Area of Car:
+660,64,Outside Temperature:
+660,154,Total Passenger Weight:
+660,10,Total Cargo Weight:
+660,35,Tire Pressure:
+660,18.3,Frontal Area of Car:
+333,38,Outside Temperature:
+333,155,Total Passenger Weight:
+333,20,Total Cargo Weight:
+333,44,Tire Pressure:
+333,20.0,Frontal Area of Car:
+373,49,Outside Temperature:
+373,155,Total Passenger Weight:
+373,10,Total Cargo Weight:
+373,45,Tire Pressure:
+373,41.87,Frontal Area of Car:
+342,51,Outside Temperature:
+342,155,Total Passenger Weight:
+342,25,Total Cargo Weight:
+342,44,Tire Pressure:
+342,20.0,Frontal Area of Car:
+484,51,Outside Temperature:
+484,176,Total Passenger Weight:
+484,132,Total Cargo Weight:
+484,missing,Tire Pressure:
+484,28.63,Frontal Area of Car:
+253,35,Outside Temperature:
+253,163,Total Passenger Weight:
+253,5,Total Cargo Weight:
+253,missing,Tire Pressure:
+253,29.28,Frontal Area of Car:
+490,50,Outside Temperature:
+490,182,Total Passenger Weight:
+490,0,Total Cargo Weight:
+490,missing,Tire Pressure:
+490,28.63,Frontal Area of Car:
+291,60,Outside Temperature:
+291,215,Total Passenger Weight:
+291,0,Total Cargo Weight:
+291,32,Tire Pressure:
+291,41.87,Frontal Area of Car:
+486,48,Outside Temperature:
+486,165,Total Passenger Weight:
+486,0,Total Cargo Weight:
+486,missing,Tire Pressure:
+486,28.63,Frontal Area of Car:
+487,50,Outside Temperature:
+487,201,Total Passenger Weight:
+487,0,Total Cargo Weight:
+487,missing,Tire Pressure:
+487,28.63,Frontal Area of Car:
+538,36,Outside Temperature:
+538,301,Total Passenger Weight:
+538,98,Total Cargo Weight:
+538,missing,Tire Pressure:
+538,28.63,Frontal Area of Car:
+477,45,Outside Temperature:
+477,176,Total Passenger Weight:
+477,110,Total Cargo Weight:
+477,missing,Tire Pressure:
+477,28.63,Frontal Area of Car:
+539,33,Outside Temperature:
+539,297,Total Passenger Weight:
+539,57,Total Cargo Weight:
+539,missing,Tire Pressure:
+539,28.63,Frontal Area of Car:
+536,47,Outside Temperature:
+536,329,Total Passenger Weight:
+536,109,Total Cargo Weight:
+536,missing,Tire Pressure:
+536,28.63,Frontal Area of Car:
+537,50,Outside Temperature:
+537,290,Total Passenger Weight:
+537,50,Total Cargo Weight:
+537,missing,Tire Pressure:
+537,28.63,Frontal Area of Car:
+617,48,Outside Temperature:
+617,353,Total Passenger Weight:
+617,132,Total Cargo Weight:
+617,missing,Tire Pressure:
+617,28.63,Frontal Area of Car:
+540,40,Outside Temperature:
+540,230,Total Passenger Weight:
+540,60,Total Cargo Weight:
+540,missing,Tire Pressure:
+540,28.63,Frontal Area of Car:
+535,58,Outside Temperature:
+535,230,Total Passenger Weight:
+535,213,Total Cargo Weight:
+535,missing,Tire Pressure:
+535,28.63,Frontal Area of Car:
+614,46,Outside Temperature:
+614,176,Total Passenger Weight:
+614,110,Total Cargo Weight:
+614,missing,Tire Pressure:
+614,28.63,Frontal Area of Car:
+615,46,Outside Temperature:
+615,176,Total Passenger Weight:
+615,132,Total Cargo Weight:
+615,missing,Tire Pressure:
+615,28.63,Frontal Area of Car:
+616,52,Outside Temperature:
+616,176,Total Passenger Weight:
+616,132,Total Cargo Weight:
+616,missing,Tire Pressure:
+616,28.63,Frontal Area of Car:
+618,50,Outside Temperature:
+618,251,Total Passenger Weight:
+618,0,Total Cargo Weight:
+618,missing,Tire Pressure:
+618,28.63,Frontal Area of Car:
+380,80,Outside Temperature:
+380,180,Total Passenger Weight:
+380,0,Total Cargo Weight:
+380,missing,Tire Pressure:
+380,28.63,Frontal Area of Car:
+382,80,Outside Temperature:
+382,180,Total Passenger Weight:
+382,0,Total Cargo Weight:
+382,missing,Tire Pressure:
+382,28.63,Frontal Area of Car:
+383,80,Outside Temperature:
+383,180,Total Passenger Weight:
+383,0,Total Cargo Weight:
+383,missing,Tire Pressure:
+383,28.63,Frontal Area of Car:
+553,60,Outside Temperature:
+553,227,Total Passenger Weight:
+553,40,Total Cargo Weight:
+553,missing,Tire Pressure:
+553,28.63,Frontal Area of Car:
+381,80,Outside Temperature:
+381,180,Total Passenger Weight:
+381,0,Total Cargo Weight:
+381,missing,Tire Pressure:
+381,28.63,Frontal Area of Car:
+356,80,Outside Temperature:
+356,480,Total Passenger Weight:
+356,0,Total Cargo Weight:
+356,missing,Tire Pressure:
+356,28.63,Frontal Area of Car:
+551,55,Outside Temperature:
+551,227,Total Passenger Weight:
+551,40,Total Cargo Weight:
+551,missing,Tire Pressure:
+551,28.63,Frontal Area of Car:
+471,80,Outside Temperature:
+471,180,Total Passenger Weight:
+471,0,Total Cargo Weight:
+471,missing,Tire Pressure:
+471,28.63,Frontal Area of Car:
+357,80,Outside Temperature:
+357,180,Total Passenger Weight:
+357,55,Total Cargo Weight:
+357,missing,Tire Pressure:
+357,28.63,Frontal Area of Car:
+473,80,Outside Temperature:
+473,180,Total Passenger Weight:
+473,0,Total Cargo Weight:
+473,missing,Tire Pressure:
+473,28.63,Frontal Area of Car:
+362,80,Outside Temperature:
+362,180,Total Passenger Weight:
+362,0,Total Cargo Weight:
+362,missing,Tire Pressure:
+362,28.63,Frontal Area of Car:
+361,80,Outside Temperature:
+361,180,Total Passenger Weight:
+361,0,Total Cargo Weight:
+361,missing,Tire Pressure:
+361,28.63,Frontal Area of Car:
+415,77,Outside Temperature:
+415,270,Total Passenger Weight:
+415,50,Total Cargo Weight:
+415,missing,Tire Pressure:
+415,28.63,Frontal Area of Car:
+475,85,Outside Temperature:
+475,180,Total Passenger Weight:
+475,0,Total Cargo Weight:
+475,missing,Tire Pressure:
+475,28.63,Frontal Area of Car:
+416,58,Outside Temperature:
+416,270,Total Passenger Weight:
+416,50,Total Cargo Weight:
+416,missing,Tire Pressure:
+416,28.63,Frontal Area of Car:
+552,60,Outside Temperature:
+552,227,Total Passenger Weight:
+552,40,Total Cargo Weight:
+552,missing,Tire Pressure:
+552,28.63,Frontal Area of Car:
+418,54,Outside Temperature:
+418,170,Total Passenger Weight:
+418,50,Total Cargo Weight:
+418,missing,Tire Pressure:
+418,28.63,Frontal Area of Car:
+550,55,Outside Temperature:
+550,227,Total Passenger Weight:
+550,45,Total Cargo Weight:
+550,missing,Tire Pressure:
+550,28.63,Frontal Area of Car:
+359,80,Outside Temperature:
+359,180,Total Passenger Weight:
+359,15,Total Cargo Weight:
+359,missing,Tire Pressure:
+359,28.63,Frontal Area of Car:
+360,80,Outside Temperature:
+360,180,Total Passenger Weight:
+360,0,Total Cargo Weight:
+360,missing,Tire Pressure:
+360,28.63,Frontal Area of Car:
+378,80,Outside Temperature:
+378,180,Total Passenger Weight:
+378,0,Total Cargo Weight:
+378,missing,Tire Pressure:
+378,28.63,Frontal Area of Car:
+196,50,Outside Temperature:
+196,150,Total Passenger Weight:
+196,0,Total Cargo Weight:
+196,40,Tire Pressure:
+196,28.63,Frontal Area of Car:
+195,50,Outside Temperature:
+195,250,Total Passenger Weight:
+195,0,Total Cargo Weight:
+195,40,Tire Pressure:
+195,28.63,Frontal Area of Car:
+193,50,Outside Temperature:
+193,150,Total Passenger Weight:
+193,0,Total Cargo Weight:
+193,40,Tire Pressure:
+193,28.63,Frontal Area of Car:
+194,50,Outside Temperature:
+194,200,Total Passenger Weight:
+194,0,Total Cargo Weight:
+194,40,Tire Pressure:
+194,28.63,Frontal Area of Car:
+437,60,Outside Temperature:
+437,375,Total Passenger Weight:
+437,0,Total Cargo Weight:
+437,32,Tire Pressure:
+437,28.63,Frontal Area of Car:
+3,74,Outside Temperature:
+3,150,Total Passenger Weight:
+3,100,Total Cargo Weight:
+3,44,Tire Pressure:
+3,28.63,Frontal Area of Car:
+2,74,Outside Temperature:
+2,150,Total Passenger Weight:
+2,100,Total Cargo Weight:
+2,44,Tire Pressure:
+2,28.63,Frontal Area of Car:
+4,74,Outside Temperature:
+4,150,Total Passenger Weight:
+4,100,Total Cargo Weight:
+4,44,Tire Pressure:
+4,28.63,Frontal Area of Car:
+6,74,Outside Temperature:
+6,150,Total Passenger Weight:
+6,100,Total Cargo Weight:
+6,44,Tire Pressure:
+6,28.63,Frontal Area of Car:
+13,75,Outside Temperature:
+13,250,Total Passenger Weight:
+13,0,Total Cargo Weight:
+13,40,Tire Pressure:
+13,28.63,Frontal Area of Car:
+1,74,Outside Temperature:
+1,150,Total Passenger Weight:
+1,100,Total Cargo Weight:
+1,44,Tire Pressure:
+1,28.63,Frontal Area of Car:
+5,74,Outside Temperature:
+5,300,Total Passenger Weight:
+5,100,Total Cargo Weight:
+5,44,Tire Pressure:
+5,28.63,Frontal Area of Car:
+7,74,Outside Temperature:
+7,150,Total Passenger Weight:
+7,100,Total Cargo Weight:
+7,44,Tire Pressure:
+7,28.63,Frontal Area of Car:
